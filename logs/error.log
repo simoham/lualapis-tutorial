@@ -1,0 +1,6 @@
+2025/06/12 08:55:07 [alert] 81992#0: lua_code_cache is off; this will hurt performance in /root/lapis-app/nginx.conf.compiled:20
+2025/06/12 08:55:24 [alert] 82009#0: lua_code_cache is off; this will hurt performance in /root/lapis-app/nginx.conf.compiled:20
+2025/06/12 08:58:23 [alert] 82039#0: lua_code_cache is off; this will hurt performance in /root/lapis-app/nginx.conf.compiled:20
+2025/06/12 09:02:33 [alert] 82125#0: lua_code_cache is off; this will hurt performance in /root/lapis-app/nginx.conf.compiled:20
+2025/06/12 09:04:17 [alert] 82145#0: lua_code_cache is off; this will hurt performance in /root/lapis-app/nginx.conf.compiled:20
+2025/06/12 09:05:26 [alert] 82181#0: lua_code_cache is off; this will hurt performance in /root/lapis-app/nginx.conf.compiled:20
