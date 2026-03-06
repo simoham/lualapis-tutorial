@@ -6,7 +6,8 @@ RUN apk add luarocks build-base unzip
 RUN apk add lsof bash htop
 RUN apk add lua lua-dev lua-ossl openresty
 
-RUN luarocks install lapis
+RUN apk info | grep -i luarocks
+RUN luarocks-5.1 install lapis
 
 COPY . . 
 
